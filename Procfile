@@ -1,1 +1,1 @@
-web: gunicorn flask_rotton_tomatos:app
+web: gunicorn flask_rotten_tomatos:app
