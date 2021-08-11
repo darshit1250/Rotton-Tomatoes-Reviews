@@ -1,1 +1,1 @@
-web: gunicorn flask_fake_news_detection:app
+web: gunicorn flask_rotton_tomatos:app
