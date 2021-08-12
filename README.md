@@ -48,5 +48,5 @@
   * gunicorn (https://github.com/benoitc/gunicorn)
   * pip-tools (https://github.com/jazzband/pip-tools)
 
-* URL of live model:
+# URL of live model:
   * https://rotton-tomatoes-reviews.herokuapp.com/
